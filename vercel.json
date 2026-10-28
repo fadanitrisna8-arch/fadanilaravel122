@@ -11,5 +11,12 @@
         "src": "/(.*)",
         "dest": "api/index.php"
     }
-    ]
+    ],
+    "functions": {
+    "api/index.php": {
+        "config": {
+        "php.ini": "api/php.ini"
+        }
+    }
+    }
 }
