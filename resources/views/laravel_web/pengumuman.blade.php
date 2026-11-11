@@ -9,40 +9,48 @@
         integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 </head>
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">OFFICIAL WEB SMK/SMP</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-    </div>
-</nav>
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">SMKS PGRI WLINGI</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href=""></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="b">beranda</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="s">profil</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">akademik</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">kesiswaan</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">berita</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Galeri</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Kontak</a>
+                    </li>
+                </ul>
 
-<nav class="navbar navbar-expand-lg bg-body-tertiary">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">Navbar</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul class="navbar-nav ms-auto">
-                <li class="nav-item">
-                    <a class="navbar-brand" href="/">SMK</a>
-                </li>
-                <li class="nav-item">
-                    <a class="navbar-brand" href="/">Beranda</a>
-                </li>
-                <li class="nav-item">
-                    <a class="navbar-brand" href="/s">Profil</a>
-                </li>
-                <li class="nav-item">
-                    <a class="navbar-brand" href="pengumuman">Pengumuman</a>
-                </li>
-            </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+            </div>
         </div>
-    </div>
-</nav>
+    </nav>
 
 <div class="row m-auto">
     <div class="col-md-9">
