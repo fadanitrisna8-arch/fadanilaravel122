@@ -113,7 +113,7 @@
                                     Teknik Komputer dan Jaringan, Rekayasa Perangkat Lunak, Teknik Alat Berat, hingga
                                     Desain Komunikasi Visual, serta dilengkapi lisensi Lembaga Sertifikasi Profesi
                                     tingkat 1 (LSP-P1) dan Bursa Kerja Khusus (BKK) guna mencetak lulusan vokasi yang
-                                    kompeten dan siap kerja</p>
+                                    kompeten dan siap kerja ༺𓆩⟪龍⟫༺𓆩</p>
 
                             </div>
                         </div>
