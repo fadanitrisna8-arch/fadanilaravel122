@@ -10,7 +10,7 @@
 </head>
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">SMKS PGRI WLINGI</a>
+            <a class="navbar-brand" href="/">SMKS PGRI WLINGI</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -26,6 +26,9 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="s">profil</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="p">pengumuman</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">akademik</a>
